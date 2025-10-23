@@ -11,8 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  open_media_station_base: #^0.1.8
-    path: ../open_media_station_base
+  open_media_station_base: ^0.1.11
+    # path: ../open_media_station_base
 
 dev_dependencies:
   flutter_test:
